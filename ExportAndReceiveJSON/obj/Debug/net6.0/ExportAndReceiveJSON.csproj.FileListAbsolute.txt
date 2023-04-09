@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ExportAndReceiveJSON\ExportAndReceiveJSON\bin\Debug\net6.0\ExportAndReceiveJSON.exe
+C:\Users\user\Desktop\ExportAndReceiveJSON\ExportAndReceiveJSON\bin\Debug\net6.0\ExportAndReceiveJSON.deps.json
+C:\Users\user\Desktop\ExportAndReceiveJSON\ExportAndReceiveJSON\bin\Debug\net6.0\ExportAndReceiveJSON.runtimeconfig.json
+C:\Users\user\Desktop\ExportAndReceiveJSON\ExportAndReceiveJSON\bin\Debug\net6.0\ExportAndReceiveJSON.dll
+C:\Users\user\Desktop\ExportAndReceiveJSON\ExportAndReceiveJSON\bin\Debug\net6.0\ExportAndReceiveJSON.pdb
+C:\Users\user\Desktop\ExportAndReceiveJSON\ExportAndReceiveJSON\obj\Debug\net6.0\ExportAndReceiveJSON.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ExportAndReceiveJSON\ExportAndReceiveJSON\obj\Debug\net6.0\ExportAndReceiveJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ExportAndReceiveJSON\ExportAndReceiveJSON\obj\Debug\net6.0\ExportAndReceiveJSON.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ExportAndReceiveJSON\ExportAndReceiveJSON\obj\Debug\net6.0\ExportAndReceiveJSON.AssemblyInfo.cs
+C:\Users\user\Desktop\ExportAndReceiveJSON\ExportAndReceiveJSON\obj\Debug\net6.0\ExportAndReceiveJSON.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ExportAndReceiveJSON\ExportAndReceiveJSON\obj\Debug\net6.0\ExportAndReceiveJSON.dll
+C:\Users\user\Desktop\ExportAndReceiveJSON\ExportAndReceiveJSON\obj\Debug\net6.0\refint\ExportAndReceiveJSON.dll
+C:\Users\user\Desktop\ExportAndReceiveJSON\ExportAndReceiveJSON\obj\Debug\net6.0\ExportAndReceiveJSON.pdb
+C:\Users\user\Desktop\ExportAndReceiveJSON\ExportAndReceiveJSON\obj\Debug\net6.0\ExportAndReceiveJSON.genruntimeconfig.cache
+C:\Users\user\Desktop\ExportAndReceiveJSON\ExportAndReceiveJSON\obj\Debug\net6.0\ref\ExportAndReceiveJSON.dll
